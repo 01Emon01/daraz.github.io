@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.head_err{
+    font-size: 42px;
+    margin-bottom: 20px;
+    color: rgb(171, 171, 171);
+}
+
+.text_bott{
+    color: rgb(171, 171, 171);
+    font-size: 26px;
+}
+
+.deep-dwn-text{
+    color: rgb(171, 171, 171);
+    margin-top: 10px;
+    font-size: 22px;
+}
